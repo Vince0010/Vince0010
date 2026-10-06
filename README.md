@@ -63,11 +63,7 @@
 Also: RESTful API design, webhooks, OAuth 2.0, cron scheduling, prompt engineering, system architecture docs.
 
 ## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vince0010&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0010&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+![Vince0010's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vince0010&theme=dracula&hide_border=true)
 
 ---
 
